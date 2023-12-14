@@ -1,5 +1,5 @@
 ### Hi 👋
 
 ```js
-me.github.romanaivtrafuse.README(:accessibility:)
+me.github.romanaivtrafuse.README( :accessibility: )
 ```
